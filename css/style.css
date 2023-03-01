@@ -1,0 +1,30 @@
+body{
+    background-color:#b91450;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+.container{
+    background-color: white;
+    margin: auto;
+    width: 50%;
+    height: 200px;
+    padding: 1%;
+    border-radius: 10px;
+}
+
+.container-inner1{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.container-inner2{
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+    gap: 20px;
+}
